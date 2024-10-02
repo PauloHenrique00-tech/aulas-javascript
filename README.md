@@ -47,3 +47,5 @@ Na prática um array é uma lista de dados sequenciais, e cada dado é armazenad
 Objetos também são estruturas de dados só que **não-indexados**, ou seja, o acesso aos dados é feito de forma diferente do que vimos nos arrays. No obejto, acessamos através de **propriedades** e **valores** declarados dentro do objeto.
 
 Normalmente, o objeto é programado de acordo com algum contexto relacionado ao mundo real.
+
+The One Piece... the One Piece is real!
