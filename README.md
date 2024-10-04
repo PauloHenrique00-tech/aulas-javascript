@@ -65,4 +65,10 @@ Ao trabalhar com condicionais, é comum utilizar operações dentro das condiç�
 - Maior ou igual  >=
 - Menor ou igual  <=
 - Igualdade       ==
-- Diferença       !=    
+- Diferença       !=
+
+## Sobre comandos de repetição
+
+São estruturas/ comandos que permitem a execução repetidas vezes de uma ou mais ações/comandos/operações. Também conhecido como **loops** ou **laços de repetição**.
+
+A quantidade de vezes que o loop será executado dependerá de alguma lógica ou condição definida pelo programador ou pelo sistema/aplicação. Também é comum que, para que o loop para de executar, seja definida uma variável de controle de repetição.
