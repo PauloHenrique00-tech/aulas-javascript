@@ -18,7 +18,7 @@ console.log(`O ${pessoa.nome} possui ${pessoa.idade} anos e mora em ${pessoa.cid
 const livro = {
     título: "Senhor dos Anéis",
     autor: "J.R.R. Tolkien",
-    volumes: [
+    volumes: [ // Array indexado 
         "A Sociedade do Anel",
         "As Duas Torres",
         "O Retorno do Rei"
