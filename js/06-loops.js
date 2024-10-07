@@ -87,24 +87,48 @@ console.log("\n---");
 
 const clientes = [
     {
-        clienteA:"Isagi Yoichi",
+        cliente: "Isagi Yoichi",
         id: 1
     },
     {
-        clienteB: "Meguru Bachira",
+        cliente: "Meguru Bachira",
         id: 2
     },
     {
-        clienteC: "Chigiri",
+        cliente: "Chigiri Ryoma",
         id: 3
     }
 ];
 
-for(const prop in clientes){
-    console.log(prop);
-
-    console.log(clientes[prop]);
+for (const cliente of clientes) {
+    console.log(`Cliente: ${cliente.cliente}, ID: ${cliente.id}`);
 }
 
-
 // alt gr + ª
+
+//  Correção                   
+
+// let clientes = [
+//     {
+//         cliente: "Goku",
+//         identificador: 1
+//     },
+//     {
+//         cliente: "Naruto",
+//         identificador: 2
+//     },
+//     {
+//         cliente: "Shiryu",
+//         identificador: 3
+//     }
+// ];
+
+// for( const cliente of clientes){
+//     /* console.log(cliente.nome);
+//     console.log(cliente.identificador); */
+
+//     // Template String/Literal
+//     console.log(
+//         `Cliente: ${cliente.nome}`, id: ${cliente.identificador}
+//     );
+// }
